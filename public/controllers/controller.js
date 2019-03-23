@@ -27,7 +27,7 @@ $scope.remove = function(id){
 };
 //  person1= {;
 //         name: 'Colin',
-//         email: 'colin@cunt.com',
+//         email: 'colin@colin.com',
 //         number:'(571) 426-1433'
 //     };
 
